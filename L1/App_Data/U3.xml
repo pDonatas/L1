@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <param Miestas1="" Miestas2="" Atstumas="9"></param>
+  <param Miestas1="Utena" Miestas2="" Atstumas=""></param>
+  <param Miestas1="Vilnius" Miestas2="Kaunas" Atstumas ="102"></param>
+  <param Miestas1="Panevėžys" Miestas2="Šiauliai" Atstumas ="83"></param>
+  <param Miestas1="Utena" Miestas2="Vilnius" Atstumas ="95"></param>
+  <param Miestas1="Klaipėda" Miestas2="Kaunas" Atstumas ="212"></param>
+  <param Miestas1="Marijampolė" Miestas2="Alytus" Atstumas="60"></param>
+  <param Miestas1="Telšiai" Miestas2="Šiauliai" Atstumas="72"></param>
+  <param Miestas1="Kaunas" Miestas2="Alytus" Atstumas="69"></param>
+  <param Miestas1="Klaipėda" Miestas2="Telšiai" Atstumas="87"></param>
+  <param Miestas1="Kaunas" Miestas2="Panevėžys" Atstumas="109"></param>
+</article>
